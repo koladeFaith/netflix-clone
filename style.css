@@ -147,7 +147,7 @@ img:hover {
   gap: 9px;
 }
 .card {
-  background-color: gray;
+  background-color: #f1f1f127;
   border-radius: 10px;
   width: 160px;
   height: 60px;
@@ -163,7 +163,7 @@ img:hover {
 .card-2 {
   height: 38px;
   border-radius: 10px;
-  background-color: gray;
+  background-color: #f1f1f128;
   margin-bottom: 5px;
 }
 .card-2:hover {
