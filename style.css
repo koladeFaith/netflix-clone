@@ -94,8 +94,19 @@ h1 {
   border: none;
   font-weight: bold;
 }
+
 .sign-up:hover {
   cursor: pointer;
+}
+.sign {
+  font-size: 8px;
+  /* position: fixed; */
+}
+.sign-up2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px 20px 0px;
 }
 .wrapper-2 {
   max-width: 1000px;
@@ -125,4 +136,50 @@ img:hover {
 }
 .section-container {
   margin: 25px 0px 25px 0px;
+}
+.section3-1 {
+  margin-bottom: 20px;
+}
+.cards {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  gap: 9px;
+}
+.card {
+  background-color: gray;
+  border-radius: 10px;
+  width: 160px;
+  height: 60px;
+}
+.para {
+  padding: 5px 0px 0px 10px;
+  font-size: 10px;
+  color: white;
+  font-weight: bold;
+}
+.cards-2 {
+}
+.card-2 {
+  height: 38px;
+  border-radius: 10px;
+  background-color: gray;
+  margin-bottom: 5px;
+}
+.card-2:hover {
+  cursor: pointer;
+}
+.inside {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  color: white;
+  font-size: 10px;
+  padding: 10px 0px 0px 10px;
+  font-weight: bold;
+}
+.plus {
+  width: 20px;
+  /* background-color: white; */
+  margin-right: 10px;
 }
